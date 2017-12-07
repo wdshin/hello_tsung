@@ -24,3 +24,5 @@
 * /usr/lib/tsung/bin/tsung_stats.pl
 * DISPLAY=:0.0 firefox report.html
 
+## Read http://tsung.erlang-projects.org/user_manual/configuration.html
+
